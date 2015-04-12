@@ -14,6 +14,7 @@ published: true
 
 <form action="index.pl" method="post">
 Git Repo URL: <input type="text" name="repo">
-<br><input type="submit" name="Sent" value="Add Youtube Links"></form>
+<br><input type="submit" name="Sent" value="Generate your Page">
+</form>
 
 
