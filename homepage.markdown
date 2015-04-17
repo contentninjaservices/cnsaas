@@ -6,7 +6,7 @@ comtec: 20115-04-11
 comments: false
 author: ContentNinja
 profile: 107224552229621877852
-menu: / Homepage
+menu: /homepage.html Homepage
 published: true
 ---
 
