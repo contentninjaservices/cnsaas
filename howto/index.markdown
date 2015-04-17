@@ -1,12 +1,12 @@
 ---
 layout: jasonlong
-title: "HowTo"
+title: "Anleitung"
 date: 2015-04-11 00:00:00
 comtec: 20115-04-11
 comments: false
 author: ContentNinja
 profile: 107224552229621877852
-menu: /howto Howto
+menu: /howto Anleitung
 published: true
 ---
 
